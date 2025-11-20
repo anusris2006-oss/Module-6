@@ -1,4 +1,4 @@
-# Exp.No:29  
+# Exp.No: 6C
 ## Encapsulation
 
 ---
@@ -26,6 +26,9 @@ To write a Python program to create a class `Student` with the private members `
 ### PROGRAM
 
 ```
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
 class Class1Students:
     def __init__(self, name, age):
         self.__name = name
