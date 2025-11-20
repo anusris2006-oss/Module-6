@@ -1,4 +1,4 @@
-# Exp.No:26  
+# Exp.No: 6D
 ## Method Overriding
 
 ---
@@ -34,6 +34,9 @@ To write a Python program to create a Parent class `Bird` and inherit two child 
 ### PROGRAM
 
 ```
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
 class Bird:
     def intro(self):
         print("There are many types of birds.")
