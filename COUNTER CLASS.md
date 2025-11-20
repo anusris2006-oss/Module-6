@@ -1,4 +1,4 @@
-# Exp.No:30  
+# Exp.No: 6B
 ## COUNTER CLASS
 
 ---
@@ -26,6 +26,9 @@ To write a Python program to create a `Counter` class that can increment the val
 ### PROGRAM
 
 ```
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
 class Counter:
     def __init__(self):
         self.current = 0
