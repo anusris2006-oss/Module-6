@@ -1,4 +1,4 @@
-# Exp.No:28  
+# Exp.No:6A  
 ## Abstraction
 
 ---
@@ -33,6 +33,9 @@ To write a Python program to define the abstract base class named `Polygon` and 
 
 ### PROGRAM
 ```
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
 from abc import ABC
 class Polygon(ABC):   
   
